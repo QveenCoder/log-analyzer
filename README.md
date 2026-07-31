@@ -1,6 +1,6 @@
 # Suspicious Login Log Analyzer
 
-![Tests](https://github.com/YOUR_USERNAME/log-analyzer/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/QveenCoder/log-analyzer/actions/workflows/tests.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
