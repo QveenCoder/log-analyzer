@@ -1,0 +1,2 @@
+# No external dependencies — uses Python 3 standard library only.
+# Pinning nothing here on purpose so this stays trivially portable.

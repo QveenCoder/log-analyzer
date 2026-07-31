@@ -1,0 +1,17 @@
+2026-07-30 09:12:01 web01 sshd[1023]: Accepted password for jsmith from 10.0.0.15
+2026-07-30 09:45:33 web01 sshd[1024]: Accepted password for aramirez from 10.0.0.22
+2026-07-30 14:02:10 web01 sshd[1030]: Failed password for invalid user admin from 203.0.113.50
+2026-07-30 14:02:15 web01 sshd[1031]: Failed password for invalid user admin from 203.0.113.50
+2026-07-30 14:02:19 web01 sshd[1032]: Failed password for invalid user root from 203.0.113.50
+2026-07-30 14:02:24 web01 sshd[1033]: Failed password for invalid user test from 203.0.113.50
+2026-07-30 14:02:29 web01 sshd[1034]: Failed password for invalid user oracle from 203.0.113.50
+2026-07-30 14:02:34 web01 sshd[1035]: Failed password for invalid user ubuntu from 203.0.113.50
+2026-07-30 14:03:01 web01 sshd[1036]: Accepted password for jsmith from 10.0.0.15
+2026-07-30 22:47:12 web01 sshd[1040]: Accepted password for cwhite from 198.51.100.9
+2026-07-30 23:15:44 web01 sshd[1041]: Accepted password for cwhite from 198.51.100.9
+2026-07-31 03:05:02 web01 sshd[1050]: Failed password for jdoe from 203.0.113.77
+2026-07-31 03:05:09 web01 sshd[1051]: Failed password for msmith from 203.0.113.77
+2026-07-31 03:05:16 web01 sshd[1052]: Failed password for tuser from 203.0.113.77
+2026-07-31 03:05:23 web01 sshd[1053]: Failed password for kbrown from 203.0.113.77
+2026-07-31 03:05:31 web01 sshd[1054]: Failed password for aadmin from 203.0.113.77
+2026-07-31 08:30:00 web01 sshd[1060]: Accepted password for aramirez from 10.0.0.22
